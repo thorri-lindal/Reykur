@@ -10,3 +10,11 @@ Me and my best friend [Hallmar Gauti](https://github.com/hallmar) worked on maki
 
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=dead&style=plastic&up_color=blue&up_message=online&url=https%3A%2F%2Fgithub.com%2Fthorrilindalg%2Fsmokie)
 ![small_logo_new](https://img.shields.io/badge/Þorri%20L%C3%ADndal-Hacker-red)
+
+#
+
+#### Ionization Chamber
+Use the ionization chamber for a µcontroller-based smoke sensor for applications.
+
+#### Infrared light, Lens and photoelectric receiver
+Perfect use for parts in a DIY project.
