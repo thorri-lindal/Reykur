@@ -5,7 +5,7 @@ A simple project turning out-of-service smoke detectors into something new such 
 ----
 
 ## On this page
-- [1. Chapter](#### Piezo-based guitar pickup)
+- [1. Chapter](#### Piezo-based%guitar%pickup)
 
 ----
 
