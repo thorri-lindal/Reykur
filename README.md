@@ -2,8 +2,9 @@
 ### Introduction 
 A simple project turning out-of-service smoke detectors into something new such as guitar pedals or pickups, sensor gadgets or other simple devices.
 
-- [Example 1 Heading](####Piezo-based%guitar%pickup)
-- [Example 1 Heading](###Example%201%20Heading)
+# Table of contents
+- [Piezo Guitar Pickup](####Piezo-based%guitar%pickup)
+- [Introduction](###Introduction )
 
 
 #### Piezo-based guitar pickup
