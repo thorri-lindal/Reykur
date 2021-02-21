@@ -21,3 +21,4 @@ Perfect use for parts in a DIY project.
 
 #### Eurorack Module using Americium-241
 Test out a circuit that uses Americium-241 (and a geiger module) to make a random seed generator eurorack module.
+[image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Americium_button_hd.jpg/640px-Americium_button_hd.jpg)
