@@ -1,4 +1,4 @@
-![small_logo_new](https://raw.githubusercontent.com/thorri-lindal/Reykur/main/Graphics/Logo/gold_001.png)
+![small_logo_new](https://raw.githubusercontent.com/thorri-lindal/Reykur/main/Graphics/Logo/gold_003.png?token=AOMJKSNZPP4IVIODFL6T4EDAHPY7Y)
 ### Introduction 
 A simple project turning out-of-service smoke detectors into something new such as guitar pedals or pickups, sensor gadgets or other simple devices.
 
