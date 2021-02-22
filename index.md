@@ -19,6 +19,9 @@ Use the ionization chamber for a µcontroller-based smoke sensor for application
 #### Infrared light, Lens and photoelectric receiver
 Perfect use for parts in a DIY project.
 
+#### DIY Cloud Chamber (for educational purposes)
+Could be a fun and informative project to teach people about [cloud chambers](https://en.wikipedia.org/wiki/Cloud_chamber) using the americium-241.
+
 #### Eurorack Module using Americium-241
 Test out a circuit that uses Americium-241 (and a geiger module) to make a random seed generator eurorack module.
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Americium_button_hd.jpg/640px-Americium_button_hd.jpg)
