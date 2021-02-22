@@ -14,8 +14,6 @@ Me and my best friend [Hallmar Gauti](https://github.com/hallmar) worked on maki
 #### Ionization Chamber
 Use the ionization chamber for a µcontroller-based smoke sensor for applications.
 
-![Ion](http://large.stanford.edu/courses/2011/ph241/eason1/images/f2.jpg)
-
 ![Ion2](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ion_chamber_operation.gif/640px-Ion_chamber_operation.gif)
 
 #### Infrared light, Lens and photoelectric receiver
